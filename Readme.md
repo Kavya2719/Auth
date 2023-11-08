@@ -11,6 +11,11 @@ Download the required dependencies for running the application, by the following
 pip install firebase_admin pyrebase4 fastapi slowapi 
 ```
 
+Add the key databaseURL for the value as an empty string in the firebase_config.json, in case databaseURL is not present there. Otherwise, main.py will give error.
+```
+"databaseURL": ""
+```
+
 for starting the server, run the following command:
 ```
 uvicorn main:app --reload
