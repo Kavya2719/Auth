@@ -1,6 +1,6 @@
 # Auth
 ## Project Demo Video
-Video Link: https://drive.google.com/file/d/1Psv_krtQQVhdbh2AAsFgTZim-7prweiF/view?usp=sharing
+Demo Video Link: https://drive.google.com/file/d/1Psv_krtQQVhdbh2AAsFgTZim-7prweiF/view?usp=sharing
 
 ## Setting up Directions
 for setting up the project in your local environment, you will be first needing the service_keys.json and firebase_config.json of the firebase.
