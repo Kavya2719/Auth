@@ -1,5 +1,5 @@
 # Auth
-## Project Explanation
+## Project Demo Video
 Video Link: https://drive.google.com/file/d/1Psv_krtQQVhdbh2AAsFgTZim-7prweiF/view?usp=sharing
 
 ## Setting up Directions
